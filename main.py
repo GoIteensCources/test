@@ -1,5 +1,4 @@
 import json
-from typing import List
 from tool_note import Note
 
 class NoteManager:
